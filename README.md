@@ -30,4 +30,5 @@
 
 | Plot | File | Script | Input data |
 |:--|:--|:--|:--|
+| Salary hike-tenure trends | `plot00_trend_salaryhikeVStenure.png` | `script00_records.R` | Employee records |
 | Salary-work experience trends | `plot01_trend_salaryVSxp.png` | `script00_records.R` | Employee records |
