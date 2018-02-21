@@ -3,8 +3,6 @@
 
 ## Data sources
 
-test
-
 `data://` located at [`employee-surveys`](https://drive.google.com/open?id=1k4Pk4r4D2nz9xAEgMU7BVJTeEGtJHjY0)
 
 | Dataset | Description | Data filepath | Columns | Rows | Size | Documentation |
@@ -15,6 +13,7 @@ test
 | *Performance rating survey results* | Results of performance rating survey accomplished by managers | [`[data:///Employee Surveys.xlsx]!Performance rating survey`](https://drive.google.com/open?id=1RS9WAp087xdkP_AJaRT40OY8P6R7NxMe) | 6 columns | 1,470 rows |  |  |
 
 ## Outline
+
 
 ### EDA
 
@@ -33,3 +32,21 @@ test
 | Plot | File | Script | Input data |
 |:--|:--|:--|:--|
 | Salary-work experience trends | `plot01_trend_salaryVSxp.png` | `script00_records.R` | Employee records |
+
+#### Dashboards
+
+| Dashboard | Software |  Input data |
+|:--|:--|:--|:--|
+| Satisfaction survey | [`Tableau`](https://public.tableau.com/profile/robin.ramos#!/vizhome/Satisfaction_10/Dashboard1?publish=yes) | Satisfaction survey, Employee records, Performance rating |
+ 
+#### Models
+
+| Field 1 | Field 2 | 
+|:--|:--|
+| text | text 2 | 
+
+#### Reports
+
+| Field 1 | Field 2 | 
+|:--|:--|
+| text | text 2 | 
