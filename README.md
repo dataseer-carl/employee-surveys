@@ -32,6 +32,7 @@
 | Plot | File | Script | Input data |
 |:--|:--|:--|:--|
 | Salary-work experience trends | `plot01_trend_salaryVSxp.png` | `script00_records.R` | Employee records |
+| Salary hike-tenure trends | `plot00_trend_salaryhikeVStenure.png` | `script00_records.R` | Employee records |
 
 #### Dashboards
 
@@ -50,3 +51,4 @@
 | Field 1 | Field 2 | 
 |:--|:--|
 | text | text 2 | 
+
