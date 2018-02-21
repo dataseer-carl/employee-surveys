@@ -14,6 +14,7 @@
 
 ## Outline
 
+
 ### EDA
 
 - [ ] **Talent composition**: *Department*, *EducationField*/*JobRole*
@@ -30,5 +31,24 @@
 
 | Plot | File | Script | Input data |
 |:--|:--|:--|:--|
-| Salary hike-tenure trends | `plot00_trend_salaryhikeVStenure.png` | `script00_records.R` | Employee records |
 | Salary-work experience trends | `plot01_trend_salaryVSxp.png` | `script00_records.R` | Employee records |
+| Salary hike-tenure trends | `plot00_trend_salaryhikeVStenure.png` | `script00_records.R` | Employee records |
+
+#### Dashboards
+
+| Dashboard | Software | Link |  Input data |
+|:--|:--|:--|:--|
+| Employee satisfaction | Tableau | [`Tableau`](https://public.tableau.com/profile/robin.ramos#!/vizhome/Satisfaction_10/Dashboard1?publish=yes) | Satisfaction survey, Employee records, Performance rating |
+ 
+#### Models
+
+| Field 1 | Field 2 | 
+|:--|:--|
+| text | text 2 | 
+
+#### Reports
+
+| Field 1 | Field 2 | 
+|:--|:--|
+| text | text 2 | 
+
