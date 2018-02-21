@@ -35,9 +35,9 @@
 
 #### Dashboards
 
-| Dashboard | Software |  Input data |
-|:--|:--|:--|
-| Satisfaction survey | [`Tableau`](https://public.tableau.com/profile/robin.ramos#!/vizhome/Satisfaction_10/Dashboard1?publish=yes) | Satisfaction survey, Employee records, Performance rating |
+| Dashboard | Software | Link |  Input data |
+|:--|:--|:--|:--|
+| Employee satisfaction | Tableau | [`Tableau`](https://public.tableau.com/profile/robin.ramos#!/vizhome/Satisfaction_10/Dashboard1?publish=yes) | Satisfaction survey, Employee records, Performance rating |
  
 #### Models
 
