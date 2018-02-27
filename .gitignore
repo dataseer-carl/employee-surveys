@@ -4,3 +4,5 @@ Data/
 # Ignore authentication keys for googledrive::
 .httr-oauth
 .Rproj.user
+.Rhistory
+README.html
